@@ -21,7 +21,8 @@ An AI-Powered Job Automation Agent designed to streamline the hiring process.
 * **Tech:** Next.js 15, Tailwind, Gemini AI, Prisma, Vercel
 * **Features:** Automated resume parsing, candidate match scoring, auto-cover letter generation, and interactive interview simulation.
 
-#### 📦 [DeliveryApp](https://github.com/chimzyfire-ship-it/DeliveryApp)
+#### 📦Logistics Platform Blueprint
+https://github.com/chimzyfire-ship-it/Logistics-Platform-Blueprint
 A comprehensive full-stack logistics platform for modern fleet management.
 * **Tech:** React Native, Expo, Supabase
 * **Features:** Real-time fleet tracking, OSRM routing, secure role-based access control, and geolocation mapping.
